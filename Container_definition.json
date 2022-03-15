@@ -1,4 +1,4 @@
- "containerDefinitions": [
+ ContainerDefinitions: [
     {
       "dnsSearchDomains": null,
       "environmentFiles": null,
