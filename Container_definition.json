@@ -1,4 +1,4 @@
- ="containerDefinitions": [
+ =
     {
       "dnsSearchDomains": null,
       "environmentFiles": null,
@@ -53,4 +53,3 @@
       "privileged": null,
       "name": "SHOKTI"
     }
-  ]
