@@ -1,5 +1,4 @@
- =
-    {
+{
       "dnsSearchDomains": null,
       "environmentFiles": null,
       "logConfiguration": {
@@ -52,4 +51,4 @@
       "systemControls": null,
       "privileged": null,
       "name": "SHOKTI"
-    }
+}
