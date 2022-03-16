@@ -13,6 +13,7 @@ pipeline {
         AWS_ECS_MEMORY = '512'
         AWS_ECS_CLUSTER = 'Mycluster'
         AWS_ECS_TASK_DEFINITION_PATH = 'Container_definition.json'
+        IMAGE_TAG1="${env.BUILD_NUMBER}"
 }
     
     stages {
