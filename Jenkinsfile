@@ -45,7 +45,7 @@ pipeline {
         stage('Deploy to ECS') {
             steps {
                 script {
-                    sh "./script.sh"
+                    sh "./cfntest/script.sh"
                 }
             }
         }
